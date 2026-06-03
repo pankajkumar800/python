@@ -1,2 +1,2 @@
-# pyrhon
+# python
 learning python
